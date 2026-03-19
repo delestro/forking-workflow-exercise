@@ -2,6 +2,8 @@
 
 Serve alongside [feijoada](../mains/traditional-feijoada.md), [braised kale](../sides/braised_kale.md) and white rice.
 
+Farofa is pronounced `/faˈɾɔ.fɐ/`.
+
 ## Ingredients
 - **2 cups** cassava flour (farinha de mandioca)
 - **3 eggs**

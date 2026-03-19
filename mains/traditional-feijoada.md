@@ -2,6 +2,8 @@
 
 Serve alongside [farofa](../sides/farofa.md) and [braised kale](../sides/braised_kale.md).
 
+Feijoada is pronounced `/fej.ʒuˈa.dɐ/`.
+
 ## Ingredients
 
 - **400 g** black beans (dried or 2 cans, drained and rinsed)
